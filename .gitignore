@@ -1,0 +1,14 @@
+
+myRetail/.settings/.jsdtscope
+myRetail/.project
+myRetail/.classpath
+myRetail/.settings/org.eclipse.jdt.core.prefs
+*.prefs
+*.component
+myRetail/.settings/org.eclipse.wst.common.project.facet.core.xml
+*.container
+*.name
+myRetail/dev/myretail-service-error.log
+myRetail/dev/myretail-service.log
+myRetail/target/classes/application.properties
+myRetail/target/surefire-reports/TEST-com.tgt.cs.myretail.main.controller.ProductServiceControllerTest.xml
