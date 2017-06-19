@@ -31,3 +31,4 @@ Process to run:
 	}
 5. JUnit test report will be created in target/surefire-reports folder as surefire plugin is used for the same (JUnit is written for only Controller considering limited time for usecase)
 6. Log file gets created @ C:\Arun\software\git\java-development\myRetail\dev . This can be changed in log4j.properties
+7. target folder have the jar file and junit test reports.
