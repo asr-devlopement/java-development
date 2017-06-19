@@ -32,3 +32,6 @@ Process to run:
 5. JUnit test report will be created in target/surefire-reports folder as surefire plugin is used for the same (JUnit is written for only Controller considering limited time for usecase)
 6. Log file gets created @ C:\Arun\software\git\java-development\myRetail\dev . This can be changed in log4j.properties
 7. target folder have the jar file and junit test reports.
+8. Run command: mvn install , for packaging the application to jar and mvn test , just for running the junits
+9. Chrome Postman or ARC can be used as rest client to test the application
+
