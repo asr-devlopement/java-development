@@ -8,7 +8,7 @@
 Process to run:
 
 1. Executable jar: myRetail.jar can be run with java -jar command. Application runs on 8080. It can be changed either in application.properties or through JVM argument:-Dserver.port
-2. Application creates nitrite db file path @ C:\Arun\software\nitrite\myretail.db . It can be changed in application.properties file
+2. Application creates nitrite db file path @ C:\Arun\software\nitrite\myretail.db . Already created instance is present project's 'db' folder which can be placed in the same folder. Path of file can be changed in application.properties file
 3. Input request for GET: http://localhost:8080/products/{id} and output would be:
 	{
 	    "id": "16696652",
