@@ -34,4 +34,5 @@ Process to run:
 7. target folder have the jar file and junit test reports.
 8. Run command: mvn install , for packaging the application to jar and mvn test , just for running the junits
 9. Chrome Postman or ARC can be used as rest client to test the application
+10. Nitrite DB file is placed in 'db' folder inside project
 
